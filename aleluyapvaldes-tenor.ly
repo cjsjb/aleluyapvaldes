@@ -6,6 +6,7 @@
 	title = "Aleluya"
 	composer = "Patsy Daniela Valdés Cebrián"
 	tagline = "Coro Juvenil San Juan Bosco"
+	instrument = "Tenor"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
@@ -28,11 +29,6 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "aleluyapvaldes-acordes.inc"
-		\new StaffGroup <<
-			\include "aleluyapvaldes-soprano.inc"
-			%\include "aleluyapvaldes-mezzo.inc"
-			\include "aleluyapvaldes-tenor.inc"
-		>>
+		\include "aleluyapvaldes-tenor.inc"
 	>>
-	\layout { }
 }
