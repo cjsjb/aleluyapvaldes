@@ -21,16 +21,15 @@
 		e' 4. c' c' 8 c'  |
 		c' 4. c' a 8 ( g  |
 		e 4 ) e f 8 e 4 e 8  |
-		g 2 f  |
-%% 10
+		g 2 f 8 ( e f 4 )  |
 		e 1  |
 		\bar "|."
-	} % Voice
+	}
 
 	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
 	% ¡A -- le -- lu -- ya, a -- le -- lu -- ya!
 	¡A __ le -- lu -- ya, a -- le -- lu -- ya!
 	¡A -- le -- lu -- ya, a -- le -- lu -- ya!
-	¡A __ le -- lu -- ya, a -- le -- lu -- ya!
-	} % Lyrics 1
->> % Staff ends
+	¡A __ le -- lu -- ya, a -- le -- lu __ ya!
+	}
+>>

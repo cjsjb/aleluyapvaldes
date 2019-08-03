@@ -22,16 +22,15 @@
 		c'' 4. a' a' 8 a'  |
 		a' 4. g' e' 8 ( d'  |
 		g 4 ) c' d' 8 c' 4 d' 8  |
-		e' 2 d'  |
-%% 10
+		e' 2 d' 8 ( c' d' 4 )  |
 		c' 1  |
 		\bar "|."
-	} % Voice
+	}
 
 	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
 	¡A -- le -- lu -- ya, a -- le -- lu -- ya!
 	¡A __ le -- lu -- ya, a -- le -- lu -- ya!
 	¡A -- le -- lu -- ya, a -- le -- lu -- ya!
-	¡A __ le -- lu -- ya, a -- le -- lu -- ya!
-	} % Lyrics 1
->> % Staff ends
+	¡A __ le -- lu -- ya, a -- le -- lu __ ya!
+	}
+>>
