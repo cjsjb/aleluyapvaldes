@@ -2,6 +2,10 @@
 	\chords {
 		\set chordChanges = ##t
 		% intro
+		s2
+		a4.:m f8 ~ f2
+		c4. g8 ~ g2
+		a1:m
 		g1
 
 		% primera parte

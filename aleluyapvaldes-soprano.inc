@@ -13,12 +13,14 @@
 		\clef "treble"
 		\key c \major
 
-		R1  |
+		\partial 2
+		r2  |
+		R1*4  |
 		g 4 c' d' 8 c' 4 d' 8  |
 		e' 4 e' 8 d' 4. e' 8 ( d'  |
 		g 4 ) c' d' 8 c' 4 d' 8  |
-%% 5
 		a' 4 a' 8 g' 4. c'' 8 c''  |
+%% 10
 		c'' 4. a' a' 8 a'  |
 		a' 4. g' e' 8 ( d'  |
 		g 4 ) c' d' 8 c' 4 d' 8  |

@@ -33,6 +33,11 @@ globalTempo = {
 			%\include "aleluyapvaldes-mezzo.inc"
 			\include "aleluyapvaldes-tenor.inc"
 		>>
+		\include "aleluyapvaldes-violin.inc"
 	>>
-	\layout { }
+	\layout {
+		\context {
+			\RemoveEmptyStaffContext
+		}
+	}
 }

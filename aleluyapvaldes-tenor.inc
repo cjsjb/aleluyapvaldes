@@ -13,11 +13,13 @@
 		\clef "treble_8"
 		\key c \major
 
-		R1*2  |
+		\partial 2
+		r2  |
+		R1*5  |
 		r2 r4 e' 8 ( d'  |
 		g 4 ) c' d' 8 c' 4 d' 8  |
-%% 5
 		c' 4 c' 8 b 4. e' 8 e'  |
+%% 10
 		e' 4. c' c' 8 c'  |
 		c' 4. c' a 8 ( g  |
 		e 4 ) e f 8 e 4 e 8  |
