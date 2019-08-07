@@ -30,7 +30,7 @@ globalTempo = {
 		\include "aleluyapvaldes-acordes.inc"
 		\new StaffGroup <<
 			\include "aleluyapvaldes-soprano.inc"
-			%\include "aleluyapvaldes-mezzo.inc"
+			\include "aleluyapvaldes-mezzo.inc"
 			\include "aleluyapvaldes-tenor.inc"
 		>>
 		\include "aleluyapvaldes-violin.inc"
