@@ -10,8 +10,8 @@
 
 		% primera parte
 		c1 g1
-		c2 a2:m d2:7 g2:7
-		a2:m f2 ~ f2 c2 ~
+		c2 a2:m d4.:7 g8:7 ~ g2:7
+		a4.:m f8 ~ f2 f4. c8 ~ c2
 		c2 a2:m d2:m7 g2:7
 		c1
 	}
