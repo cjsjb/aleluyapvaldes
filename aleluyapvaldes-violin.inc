@@ -6,7 +6,7 @@
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "voice 1" {
+	\context Voice = "voz-violin" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
@@ -22,5 +22,5 @@
 		g' 2. r4  |
 		R1*9  |
 		\bar "|."
-	} % Voice
->> % Staff ends
+	}
+>>
