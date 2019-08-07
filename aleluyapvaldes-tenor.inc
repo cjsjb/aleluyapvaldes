@@ -29,9 +29,9 @@
 	}
 
 	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
-	% ¡A -- le -- lu -- ya, a -- le -- lu -- ya!
-	¡A __ le -- lu -- ya, a -- le -- lu -- ya!
-	¡A -- le -- lu -- ya, a -- le -- lu -- ya!
-	¡A __ le -- lu -- ya, a -- le -- lu __ ya!
+		% ¡A -- le -- lu -- ya, a -- le -- lu -- ya!
+		¡A __ le -- lu -- ya, a -- le -- lu -- ya!
+		¡A -- le -- lu -- ya, a -- le -- lu -- ya!
+		¡A __ le -- lu -- ya, a -- le -- lu __ ya!
 	}
 >>
