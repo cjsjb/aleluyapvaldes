@@ -29,7 +29,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		¡A -- le -- lu -- ya, a -- le -- lu -- ya!
 		¡A __ le -- lu -- ya, a -- le -- lu -- ya!
 		¡A -- le -- lu -- "ya, a" -- le -- lu -- "ya, a" -- le -- lu -- ya!
