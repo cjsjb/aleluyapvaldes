@@ -13,7 +13,7 @@
 		$(let ((val (ly:parser-lookup 'easy))) (if (null? val) #{ #} val))
 
 		\clef "treble"
-		\key g \major
+		\key c \major
 
 		\partial 2
 		r8 g' a' b'  |
